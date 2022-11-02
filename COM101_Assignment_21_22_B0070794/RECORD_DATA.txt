@@ -1,0 +1,16 @@
+#Listing showing sample record details 
+#ARTIST, TITLE, GENRE, PLAY LENGTH, CONDITION, STOCK, COST
+Queen, Greatest Hits, Rock, LP, Very Good, 2, 10.49
+Bach, Mass in B Minor, Classical, LP, Acceptable, 1, 10.49
+Bach, English Suites, Classical, LP, Good, 1, 5.99
+Harty, An Irish Symphony, Classical, EP, As New, 1, 14.99
+John Martyn, One World, Pop, LP, As New, 1, 14.99
+Rush, Signals, Rock, LP, Very Good, 1, 10.49
+Courtney Pine, Underground, Jazz, LP, Acceptable, 1, 8.99
+Peter Gabriel, Secret World, Pop, LP, Very Good, 2, 7.99
+John Cleese, The Screwtape Letters, Spoken Word, LP, Good, 1, 12.49
+Beethoven, The Pastoral Symphony, Classical, EP, Good, 1, 7.49
+Glen Miller, In the Mood, Jazz, 45, Acceptable, 3, 5.49
+John Tavener, Goode Companie Awaites, Classical, 78, Acceptable, 1, 24.99
+The Beatles, Maxwell's Silver Hammer, Pop, 45, Acceptable, 2, 5.49
+Neil Cowley Trio, Radio SIlence, Jazz, LP, As new, 2, 12.99
